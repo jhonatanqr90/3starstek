@@ -1,0 +1,6 @@
+const contenido_horizontalModule = _ => {
+
+
+
+}
+window.addEventListener( 'load', document.fonts.ready.then( () => { contenido_horizontalModule() } ) )

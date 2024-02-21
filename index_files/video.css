@@ -1,0 +1,8 @@
+.video {
+  border-radius: 1.875rem;
+  background-color: var(--light-blue-color);
+  overflow: hidden;
+  width: 100%;
+  aspect-ratio: 16/8;
+  margin: 8.125rem 0;
+}

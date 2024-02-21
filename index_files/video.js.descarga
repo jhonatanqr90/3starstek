@@ -1,0 +1,6 @@
+const videoModule = _ => {
+
+
+
+}
+window.addEventListener( 'load', document.fonts.ready.then( () => { videoModule() } ) )

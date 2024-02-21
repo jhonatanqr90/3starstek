@@ -1,0 +1,6 @@
+const banner_principalModule = _ => {
+
+
+
+}
+window.addEventListener( 'load', document.fonts.ready.then( () => { banner_principalModule() } ) )
